@@ -32,3 +32,4 @@
 
 ​	https://github.com/milkv-megrez/megrez-build/releases/tag/2025-0117
 
+**此开发板的相关信息较少**
