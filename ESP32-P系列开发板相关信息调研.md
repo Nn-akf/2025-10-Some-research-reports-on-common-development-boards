@@ -292,3 +292,23 @@ idf.py -p PORT flash
 #### ESP-IDF-CXX
 
 ​	此库函数包含了 ESP-IDF 的部分 C++ 封装，重点在实现易用性、安全性、自动资源管理，以及将错误检查转移到编译过程中，以避免运行时失败。它还提供了 ESP 定时器、I2C、SPI、GPIO 等外设或 ESP-IDF 其他功能的 C++ 类。
+
+## ESP32 Android
+
+### 介绍：
+
+​	ESP32 Android core是一个功能强大的开发平台，它为乐鑫的 ESP32 系列微控制器带来了 Arduino 编程的简单性和可访问性。这种集成使开发人员能够利用熟悉的 Arduino 环境，同时利用 ESP32 的高级功能，包括双核处理、内置 Wi-Fi 和蓝牙连接以及广泛的外围设备支持。
+
+### 主要特性和功能：
+
+​	1.多SOC支持——兼容所有的乐鑫开发板
+
+​	2.内置连接库——WIFI、Zigbee、以太网、低功耗蓝牙
+
+​	3.全面的外设支持——GPIO、ADC、IIC、IIS、SPI、UART等
+
+​	4.内置库——丰富的预构建库生态系统，包括 WebServer、HTTP 客户端、OTA 更新、Matter、文件系统支持等。
+
+​	5.实时操作系统——FreeRTOS
+
+​	6.Android——与现有 Arduino 库和代码无缝集成，同时添加 ESP32 特定功能
