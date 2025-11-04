@@ -312,3 +312,4 @@ idf.py -p PORT flash
 ​	5.实时操作系统——FreeRTOS
 
 ​	6.Android——与现有 Arduino 库和代码无缝集成，同时添加 ESP32 特定功能
+
